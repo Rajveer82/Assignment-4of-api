@@ -1,4 +1,4 @@
-package com.example.assignment4frontend.CRUD
+package com.example.assignment4frontend.authentication
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,11 +8,11 @@ import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.assingment4.R
-import com.example.assingment4.CRUD.RecipesActivity
-import com.example.assingment4.apis.LoginRequest
-import com.example.assingment4.apis.LoginResponse
-import com.example.assingment4.apis.RetrofitClient
+import com.example.assignment4frontend.R
+import com.example.assignment4frontend.CRUD.RecipesActivity
+import com.example.assignment4frontend.apis.LoginRequest
+import com.example.assignment4frontend.apis.LoginResponse
+import com.example.assignment4frontend.apis.RetrofitClient
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

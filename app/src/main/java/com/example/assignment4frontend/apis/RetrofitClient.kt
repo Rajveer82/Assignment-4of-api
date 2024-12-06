@@ -1,6 +1,6 @@
 package com.example.assignment4frontend.apis
 
-import com.example.assingment4.apis.AuthApi
+import com.example.assignment4frontend.apis.AuthApi
 
 
 

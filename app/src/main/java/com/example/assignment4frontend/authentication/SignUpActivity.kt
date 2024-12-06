@@ -1,4 +1,4 @@
-package com.example.assignment4frontend.CRUD
+package com.example.assignment4frontend.authentication
 
 import android.content.Intent
 import android.os.Bundle
@@ -9,8 +9,8 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.example.assignment4frontend.R
-import com.example.assingment4.apis.RegisterRequest
-import com.example.assingment4.apis.RegisterResponse
+import com.example.assignment4frontend.apis.RegisterRequest
+import com.example.assignment4frontend.apis.RegisterResponse
 import com.example.assignment4frontend.apis.RetrofitClient
 import retrofit2.Call
 import retrofit2.Callback

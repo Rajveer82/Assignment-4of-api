@@ -11,7 +11,7 @@ import android.widget.ImageView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.example.assignment4frontend.R
-import com.example.assingment4.apis.Recipe
+import com.example.assignment4frontend.apis.Recipe
 import com.example.assignment4frontend.apis.RetrofitClient
 import retrofit2.Call
 import retrofit2.Callback

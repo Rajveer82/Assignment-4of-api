@@ -1,4 +1,4 @@
-package com.example.assingment4.apis
+package com.example.assignment4frontend.apis
 
 import retrofit2.Call
 import retrofit2.http.Body

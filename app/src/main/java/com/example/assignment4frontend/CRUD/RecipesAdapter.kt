@@ -12,7 +12,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.assignment4frontend.R
-import com.example.assingment4.apis.Recipe
+import com.example.assignment4frontend.apis.Recipe
 
 class RecipesAdapter(private val context: Context, private val recipes: List<Recipe>) :
     RecyclerView.Adapter<RecipesAdapter.RecipeViewHolder>() {

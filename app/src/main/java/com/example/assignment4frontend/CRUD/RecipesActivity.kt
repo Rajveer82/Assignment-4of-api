@@ -11,7 +11,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
 import com.example.assignment4frontend.R
-import com.example.assingment4.apis.Recipe
+import com.example.assignment4frontend.apis.Recipe
 import com.example.assignment4frontend.apis.RetrofitClient
 import com.example.assignment4frontend.authentication.SignInActivity
 import retrofit2.Call
