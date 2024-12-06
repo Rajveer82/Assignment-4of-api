@@ -1,0 +1,27 @@
+{
+  "name": "assignment2_express-app",
+  "version": "1.0.0",
+  "description": "This is my first express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajveer82/Assignment1_Express-app"
+  },
+  "author": "Rajveer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajveer82/MDEV1004_Assignments_Labs/issues"
+  },
+  "homepage": "https://github.com/Rajveer82/MDEV1004_Assignments_Labs#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.0",
+    "nodemon": "^3.1.7"
+  }
+}
