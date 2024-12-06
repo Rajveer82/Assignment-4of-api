@@ -1,7 +1,7 @@
 // Filename: authenticateToken.js
 // Student name: Rajveer Kaur Gill
 // Student Id: 200546782
-// Date: 15 November 2024
+// Date: 6 December 2024
 // middleware/authenticateToken.js
 
 const jwt = require('jsonwebtoken');

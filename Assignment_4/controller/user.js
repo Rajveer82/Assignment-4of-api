@@ -1,7 +1,7 @@
 // filename: user.js
 // Student name: Rajveer Kaur Gill
 // Student Id: 200546782
-// Date: 15 November 2024
+// Date:6 December 2024
 
 //Import the user model
 var User = require("../models/User");
